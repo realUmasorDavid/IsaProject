@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Portfolio Project"
+		},
+		{
+			"path": "../Learning HTML with Distance"
+		},
+		{
+			"path": "../Survey Form Certification"
+		},
+		{
+			"path": "../Lyrics Finder"
+		},
+		{
+			"path": "../Bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Isa's Project"
+	}
+}
